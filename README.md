@@ -1,4 +1,4 @@
-# Bike-sales-sql-powerbi
+# European Bike Sales Analytics Pipeline
 An interactive Power BI data pipeline and dashboard analyzing performance metrics for a European bike retailer to drive strategic marketing and ad-spend optimization.
 
 ## Dashboard Preview
